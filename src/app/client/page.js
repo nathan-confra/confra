@@ -133,16 +133,13 @@ export default function ClientsPage() {
         <h2 className="text-gray-900 text-4xl sm:text-5xl font-bold leading-[60px] mb-2">
           Pricing
         </h2>
-        <p className="text-gray-900 text-base sm:text-lg font-normal leading-7 mb-20">
-          Flat daily fee, covering BD per diem and travel
-        </p>
 
         <div className="grid grid-cols-1 md:grid-cols-2 lg:px-60">
           {/* Flat daily fee */}
           <div className="flex flex-col items-center pb-10 md:pb-0">
             <img src='dollar.png' className="w-6 h-9 mb-6" />
             <p className="text-gray-700 text-base font-normal leading-normal max-w-xs">
-              Flat daily fee (covering BD rep, travel, conference costs)
+              Flat daily fee, covering BD’s time, per diem and travel costs
             </p>
           </div>
 
