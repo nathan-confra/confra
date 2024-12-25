@@ -21,7 +21,7 @@ export default function ClientsPage() {
             </p>
 
             <div className="flex flex-col sm:flex-row gap-x-10 gap-y-5 justify-center mb-16">
-                <a href='https://docs.google.com/forms/d/e/1FAIpQLSfCRebSwg8scFexh0SbOEKRNeSHXEL5jvlgOpCol9bPQhCpSA/formrestricted'>
+                <a href='https://forms.gle/YYZ2HtNV3MHaEZm99'>
                     <Button>Apply Now</Button>
                 </a>
             </div>
