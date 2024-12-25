@@ -65,19 +65,7 @@ export default function Modal({ isOpen, onClose }) {
         <div className="space-y-4">
           <div className="flex items-center justify-center gap-2">
             <span className="text-[#00cdff] text-xl">✉️</span>
-              Email: david@confra.xyz
-          </div>
-
-          <div className="flex items-center justify-center gap-2">
-            <span className="text-[#00cdff] text-xl">💬</span>
-            <a
-              href="https://t.me/daveengel"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-gray-800 font-medium hover:underline"
-            >
-               Telegram: @daveengel
-            </a>
+              Email: info@confra.xyz
           </div>
         </div>
       </div>
